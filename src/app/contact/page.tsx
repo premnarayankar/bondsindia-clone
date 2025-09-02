@@ -5,7 +5,7 @@ export default function ContactPage() {
       <section className="relative w-full h-64 bg-gray-800 flex items-center justify-center text-center text-white">
         <div className="relative z-10">
           <h1 className="text-3xl font-bold">Contact Us</h1>
-          <p className="mt-2 text-lg">Just say hello, We'll do the rest!</p>
+          <p className="mt-2 text-lg">Just say hello, Well do the rest!</p>
         </div>
       </section>
 

@@ -239,7 +239,7 @@ export default function BondsLibraryPage() {
             <ol className="list-decimal pl-5 space-y-1">
               <li>
                 Seniority – At the time of displaying seniority of the bonds, it
-                depicts as "NA"; this indicates that the ranking of the bonds is
+                depicts as NA. this indicates that the ranking of the bonds is
                 Non-Senior or other than senior.
               </li>
               <li>
